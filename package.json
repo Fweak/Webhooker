@@ -1,0 +1,10 @@
+{
+    "name": "WebhookClient",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.19.2"
+    }
+}
